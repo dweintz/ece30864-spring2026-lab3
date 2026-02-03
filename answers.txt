@@ -10,3 +10,11 @@ Non-Agile Pros and Cons:
 1.) Pro: More predictable budget and schedule with clearly defined
     milestones.
 2.) Con: Not as flexible to changes as compared with Agile.
+
+
+Question 1.b -
+
+The Scrum Master is responsible for all scrum related tasks, including 
+JIRA tooling and facilitating springs and meetings. The Product Owner 
+sets the direction for the team and handles releases and stakeholder 
+management.
