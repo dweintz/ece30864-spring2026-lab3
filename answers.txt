@@ -35,3 +35,13 @@ plans for the day.
 3. Sprint Retrospective Meeting: This occurs at the end of the spring. 
 Team members discuss work completed and move incomplete work to backlog. 
 They then close the sprint.
+
+
+Question 1.d -
+
+- An Epic is a type that refers to a large body of work that can be 
+  broken down into smaller stories.
+- A Story is a software system requirement that can be expressed in a 
+  few short sentences.
+- A Bug is an issue with a software feature.
+- A Task is a sub-task of a Story.
