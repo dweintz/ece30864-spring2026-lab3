@@ -1,0 +1,12 @@
+Question 1.a -
+
+Agile Pros and Cons:
+1.) Pro: Agile is adaptable to changing requirements, 
+    as it involves constant collaboration with customers.
+2.) Con: It can sometimes be difficult to predict exact timelines
+    and budgets without strict management and planning.
+
+Non-Agile Pros and Cons:
+1.) Pro: More predictable budget and schedule with clearly defined
+    milestones.
+2.) Con: Not as flexible to changes as compared with Agile.
